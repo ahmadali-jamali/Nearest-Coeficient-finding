@@ -1,2 +1,2 @@
-# Nearest-Coeficient-finding
-Finding nearest Coeficient
+# Nearest-Coefficient-finding
+Finding nearest Coefficient
